@@ -1,4 +1,4 @@
-#🎓 Sistema Experto Académico en Prolog
+# 🎓 Sistema Experto Académico en Prolog
 Este proyecto implementa un sistema experto en Prolog que gestiona información sobre los cursos de los primeros ciclos universitarios de la carrera de Ingenierís de Sistemas e Informática de la UNMSM, sus créditos, su organización por ciclo y sus prerrequisitos. Está pensado como una herramienta de consulta académica para estudiantes.
 
 ---
